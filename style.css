@@ -1,0 +1,37 @@
+body {
+  background-color: black;
+  text-align: center;
+  
+  text-align: center;
+  
+  background-image: url("rose.png");
+  background-size: 50%;
+  background-repeat: no-repeat;
+}
+
+
+
+h1, h5, span {
+  color: white;
+}
+
+
+#results {
+    display:none;
+  }
+
+.container {
+  text-align: center;
+  align-items: center;
+  border: solid 1px white;
+  border-radius: 1rem; 
+  position: fixed;
+  left: 25em; 
+  top: 8rem;
+  width: 30rem;
+  margin: 40px;
+  background-color: rgba(255, 220, 220, 0.493);
+
+}
+
+
